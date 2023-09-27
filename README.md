@@ -1,2 +1,5 @@
 # Tic-Tac-Toe_byRS
-Using python created a tic-tac-toe game playable within terminal
+
+How To Run
+
+Run python program and follow the prompts within the terminal and watch as your match unfolds
